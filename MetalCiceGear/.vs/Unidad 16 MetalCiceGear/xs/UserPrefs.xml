@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9069B3DE-F74B-6BB7-E745-D2241633C991}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameAssets/Scripts/AimAndShoot.cs">
+    <Files>
+      <File FileName="Assets/GameAssets/Scripts/CameraFollow.cs" Line="15" Column="41" />
+      <File FileName="Assets/GameAssets/Scripts/PointAndClickMove.cs" />
+      <File FileName="Assets/GameAssets/Scripts/AimAndShoot.cs" Line="42" Column="9" />
+      <File FileName="Assets/GameAssets/Scripts/Player.cs" Line="56" Column="9" />
+      <File FileName="Assets/GameAssets/Scripts/RagdollMode.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Alert.cs" />
+      <File FileName="Assets/GameAssets/Scripts/EnemyAbilities.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Enemy.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Killer.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Patrol.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Door.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Key.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Goal.cs" />
+      <File FileName="Assets/GameAssets/Scripts/NoiseController.cs" />
+      <File FileName="Assets/GameAssets/Scripts/ScurityCamera.cs" Line="62" Column="26" />
+      <File FileName="Assets/GameAssets/Scripts/CanvasController.cs" Line="33" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unidad 16 MetalCiceGear" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e5a5ea40-393e-4217-8a6a-a25f2ac79260" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
